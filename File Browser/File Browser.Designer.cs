@@ -108,7 +108,7 @@
          this.richTextBox2.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
          this.richTextBox2.Size = new System.Drawing.Size(642, 112);
          this.richTextBox2.TabIndex = 4;
-         this.richTextBox2.Text = "да направя да слагам път в Компютър и да натискам Enter";
+         this.richTextBox2.Text = "Info";
          // 
          // pictureBox2Redo
          // 
@@ -233,7 +233,7 @@
          this.MinimumSize = new System.Drawing.Size(100, 200);
          this.Name = "Form1";
          this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
-         this.Text = "3 Zada4a WinForm";
+         this.Text = "File Browser";
          this.Resize += new System.EventHandler(this.Form1_Resize);
          ((System.ComponentModel.ISupportInitialize)(this.pictureBox1Back)).EndInit();
          ((System.ComponentModel.ISupportInitialize)(this.pictureBox2Redo)).EndInit();
