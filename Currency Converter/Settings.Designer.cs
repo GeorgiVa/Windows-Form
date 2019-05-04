@@ -27,12 +27,12 @@ namespace Currency_Converter {
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.WebServiceUrl)]
         [global::System.Configuration.DefaultSettingValueAttribute("www.google.bg")]
-        public string virusa {
+        public string google {
             get {
-                return ((string)(this["virusa"]));
+                return ((string)(this["google"]));
             }
             set {
-                this["virusa"] = value;
+                this["google"] = value;
             }
         }
     }
