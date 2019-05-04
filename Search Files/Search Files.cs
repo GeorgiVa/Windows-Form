@@ -14,9 +14,6 @@ namespace WindowsFormsApplication2
     [STAThread]
     static void Main()
     {
-      //11.Напишете програма, която обхожда директорията C:\Windows\ и всичките и 
-      //поддиректории рекурсивно и отпечатва всички файлове, който имат разширение *.exe
-      //...............................................Решена..........................................
       Application.EnableVisualStyles();
       Application.SetCompatibleTextRenderingDefault(false);
       Application.Run(new SourceCode());
