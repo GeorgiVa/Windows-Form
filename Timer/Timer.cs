@@ -119,8 +119,6 @@ namespace Timer
          }
          #endregion
 
-
-         ///----------------->>> ВКЛЮЧВАНЕ НА НОВ ПРОЦЕС <<<--------------------------------
          Task.Factory.StartNew(() => timer2_Tick(sender, e));
 
          if (chronMin == min)
