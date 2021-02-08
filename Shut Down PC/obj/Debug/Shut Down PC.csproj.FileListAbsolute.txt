@@ -1,0 +1,36 @@
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\PC API\Shut Down PC\bin\Debug\Shut Down PC.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\PC API\Shut Down PC\bin\Debug\Shut Down PC.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\PC API\Shut Down PC\bin\Debug\Shut Down PC.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\PC API\Shut Down PC\obj\Debug\Shut Down PC.csprojResolveAssemblyReference.cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\PC API\Shut Down PC\obj\Debug\Shut_Down_PC.Form1.resources
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\PC API\Shut Down PC\obj\Debug\Shut_Down_PC.Properties.Resources.resources
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\PC API\Shut Down PC\obj\Debug\Shut Down PC.csproj.GenerateResource.Cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\PC API\Shut Down PC\obj\Debug\Shut Down PC.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\PC API\Shut Down PC\obj\Debug\Shut Down PC.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\bin\Debug\Shut Down PC.exe.config
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\bin\Debug\Shut Down PC.exe
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\bin\Debug\Shut Down PC.pdb
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut_Down_PC.Form1.resources
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut_Down_PC.Properties.Resources.resources
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.csproj.GenerateResource.Cache
+C:\Users\Georgi SSD2\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\bin\Debug\Shut Down PC.exe.config
+C:\Users\GeorgiV\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.exe
+C:\Users\GeorgiV\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.pdb
+C:\Users\GeorgiV\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\bin\Debug\Shut Down PC.exe
+C:\Users\GeorgiV\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\bin\Debug\Shut Down PC.pdb
+C:\Users\GeorgiV\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut_Down_PC.Form1.resources
+C:\Users\GeorgiV\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut_Down_PC.Properties.Resources.resources
+C:\Users\GeorgiV\Documents\Visual Studio 2015\Projects\Programki-Razni Ot Neta\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.csproj.GenerateResource.Cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Shut Down The PC\Shut Down PC\bin\Debug\Shut Down PC.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Shut Down The PC\Shut Down PC\bin\Debug\Shut Down PC.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Shut Down The PC\Shut Down PC\bin\Debug\Shut Down PC.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Shut Down The PC\Shut Down PC\obj\Debug\Shut_Down_PC.Form1.resources
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Shut Down The PC\Shut Down PC\obj\Debug\Shut_Down_PC.Properties.Resources.resources
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\Programki Georgi\Shut Down The PC\Shut Down PC\obj\Debug\Shut Down PC.csproj.GenerateResource.Cache
