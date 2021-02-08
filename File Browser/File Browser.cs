@@ -22,13 +22,13 @@ namespace _3_Zada4a_WinForm
             richTextBox1.AppendText("\n");
          }
       }
-      //-----------------------------------------------------------------------------------------
+     
       Stack redoStack = new Stack();//Събира директориите в които съм се връщал за да мога пак да се върна в тях
       Queue searchQueue = new Queue();//За добавяне на папки и файлове за търсене(когато се влезе в директория преди това searchQueue се изчиства за да може да се търси от съответната директория-изчиства се и когато се натискат бутоните за back и redo)
       Queue searchFounded = new Queue();//Намерени пътища и файлове
       string[] allLineArr;
       int linePos;
-      //private Point MousePosition_Click; //Не се ползва
+  
       //-----------------------------Методи---------------------------------------------
       private void GetAndPrintFilesAndFolders() //Метода за взимане на директориите и файловете
       {
@@ -147,7 +147,6 @@ namespace _3_Zada4a_WinForm
       //-----------------------------------------------------------------------------------------
       private void richTextBox1_MouseDoubleClick(object sender, MouseEventArgs e)//Влизане в папка или отваряне на файл
       {
-         //>>>>>> ПРОБЛЕМ - когато прозореца е свит и пътя е на два реда,взима долния <<<<<<<
          TakeNumberCklickedRow(out allLineArr, out linePos);
 
          if (allLineArr.Length != 0 && allLineArr[linePos] != "")
@@ -160,7 +159,6 @@ namespace _3_Zada4a_WinForm
       }
       private void richTextBox1_MouseClick(object sender, MouseEventArgs e) //Инфото на кликнат файл (ДА ГО ДОПЪЛНЯ)
       {
-         //>>>>>> ПРОБЛЕМ - когато прозореца е свит и пътя е на два реда,взима долния <<<<<<<
          richTextBox2.Clear();
 
          TakeNumberCklickedRow(out allLineArr, out linePos);
@@ -365,5 +363,3 @@ namespace _3_Zada4a_WinForm
       }
    }
 }
-//----MyComputer Explorer - РАБОТИ но има проблеми за оправяне е екстри за добавяне----
-//Да направя така че като са намерени файлове и кликна за да ги отворя да не изчезват другите рез.от търсенето
